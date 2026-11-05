@@ -137,7 +137,7 @@ real-estate-3D/
 ### Dữ liệu dự án Nha Trang
 Seeder thêm 10 hồ sơ dự án để hiển thị trên trang chủ và danh sách bất động sản: Panorama Nha Trang, Gold Coast Nha Trang, Scenia Bay Nha Trang, The Costa Nha Trang Residences, The Aston Luxury Residence Nha Trang, Libera Nha Trang, Ariyana SmartCondotel Nha Trang, VCN Phước Long, Mỹ Gia và Lê Hồng Phong II.
 
-Đây là hồ sơ tổng quan dự án, không đại diện cho một căn cụ thể. Giá bán, diện tích, ảnh và mô hình 3D được để trống nếu chưa có dữ liệu xác thực; các dự án này mở trang thông tin thay vì hiển thị mô hình 3D mẫu. Khi cập nhật dự án hiện có, chạy `php artisan migrate --seed` trong thư mục `backend/`.
+Đây là hồ sơ tổng quan dự án, không đại diện cho một căn cụ thể. Giá bán, diện tích, ảnh và mô hình 3D được để trống nếu chưa có dữ liệu xác thực và chỉ hiển thị thông tin minh hoạ, không nhắm vào bất cứ dự án thực tế nào; các dự án này mở trang thông tin thay vì hiển thị mô hình 3D mẫu. Khi cập nhật dự án hiện có, chạy `php artisan migrate --seed` trong thư mục `backend/`.
 
 ---
 

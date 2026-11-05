@@ -1,5 +1,4 @@
-# Dự Án Bất Động Sản 3D (Laravel 11 + Three.js + XAMPP)
-
+# Dự Án Bất Động Sản 
 Hệ thống website bất động sản tương tác 3D WebGL với kiến trúc decoupled: Backend Laravel 11 REST API và Frontend Single Page Application (SPA) sử dụng Vite + Three.js.
 
 ---
